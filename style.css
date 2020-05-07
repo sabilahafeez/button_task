@@ -1,0 +1,70 @@
+button{
+    font-size: 1.1em;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0.5em;
+    cursor: pointer;
+}
+
+#cart_button{
+    background-color:#c63928 ;
+    color: white;
+    padding: 1em 3em;
+}
+#cart_button:hover{
+    background-color: #ed4d50;
+}
+
+#start_button{
+    background-color: #fdd835;
+    color: #2a61fb;
+    border: 3px solid #6a8ff5;
+    padding: 10px 30px;
+    font-family:'Montserrat', sans-serif;
+    font-size: 1.5em;
+}
+#start_button:hover{
+    color: #fdd835;
+    background-color:#2a61fb ;
+}
+#login_button{
+    color: white;
+    border: none;
+    border-radius: 25px;
+    background-image: linear-gradient(to right,#59d1de,#a7d384);
+    padding:10px 38px ;
+}
+#signup_button{
+    color: blueviolet;
+    background-color: white;
+    border-radius: 5px;
+    border: 2px solid blueviolet;
+    padding: 10px 20px;
+}
+#signup_button:hover{
+    background-color: blueviolet;
+    color: white;
+}
+#subscribe_button{
+    background-image: linear-gradient(to top,#f5a332,#fac733);
+    border: 2px solid #f5a332;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+#subscribe_button:hover{
+    background-color:#f5a332 ;
+    background-image: none;
+}
+
+
+#icon{
+    color: #6a8ff5;
+    background-color: white;
+    padding: 15px;
+    border-radius: 25px;
+    border: 2px solid #6a8ff5;
+}
+#icon:hover{
+    background-color: #6a8ff5;
+    color: white;
+}
